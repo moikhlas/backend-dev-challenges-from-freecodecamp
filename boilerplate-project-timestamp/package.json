@@ -1,0 +1,21 @@
+{
+  "name": "fcc-api-projects-boilerplate",
+  "version": "0.0.1",
+  "description": "An FCC Backend Challenge ||  Challenge completed by Mohammad Ikhlas",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon run index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.0",
+    "express": "^4.12.4",
+    "nodemon": "^3.1.10"
+  },
+  "author": "freeCodeCamp <team@freecodecamp.org> || Mohammad Ikhlas ",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp"
+  ],
+  "license": "MIT"
+}
